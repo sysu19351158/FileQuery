@@ -1,0 +1,136 @@
+TestQuery函数结果：
+
+文本按字典顺序输出为：
+-- Charles Dickens
+A Tale of Two Cities
+It was the best of times
+for good or for evil
+in the superlative degree of comparison only
+it was the age of foolishness
+it was the age of wisdom
+it was the epoch of belief
+it was the epoch of incredulity
+it was the season of Darkness
+it was the season of Light
+it was the spring of hope
+it was the winter of despair
+it was the worst of times
+that some of its noisiest authorities insisted on its being received
+the period was so far like the present period
+we had everything before us
+we had nothing before us
+we were all going direct the other way -in short
+we were all going direct to heaven
+
+包含epoch,the中单词的句子有：
+It was the best of times
+it was the worst of times
+it was the age of wisdom
+it was the age of foolishness
+it was the epoch of belief
+it was the epoch of incredulity
+it was the season of Light
+it was the season of Darkness
+it was the spring of hope
+it was the winter of despair
+we were all going direct the other way -in short
+the period was so far like the present period
+in the superlative degree of comparison only
+
+文本中各单词的出现次数如下：
+a：1
+age：2
+all：2
+authorities：1
+before：2
+being：1
+belief：1
+best：1
+charles：1
+cities：1
+comparison：1
+darkness：1
+degree：1
+despair：1
+dickens：1
+direct：2
+epoch：2
+everything：1
+evil：1
+far：1
+foolishness：1
+for：2
+going：2
+good：1
+had：2
+heaven：1
+hope：1
+in：2
+incredulity：1
+insisted：1
+it：10
+its：2
+light：1
+like：1
+noisiest：1
+nothing：1
+of：13
+on：1
+only：1
+or：1
+other：1
+period：2
+present：1
+received：1
+season：2
+short：1
+so：1
+some：1
+spring：1
+superlative：1
+tale：1
+that：1
+the：14
+times：2
+to：1
+two：1
+us：2
+was：11
+way：1
+we：4
+were：2
+winter：1
+wisdom：1
+worst：1
+
+替换'was'为'is'后文本按字典顺序输出为：
+-- Charles Dickens
+A Tale of Two Cities
+It is the best of times
+for good or for evil
+in the superlative degree of comparison only
+it is the age of foolishness
+it is the age of wisdom
+it is the epoch of belief
+it is the epoch of incredulity
+it is the season of Darkness
+it is the season of Light
+it is the spring of hope
+it is the winter of despair
+it is the worst of times
+that some of its noisiest authorities insisted on its being received
+the period is so far like the present period
+we had everything before us
+we had nothing before us
+we were all going direct the other way -in short
+we were all going direct to heaven
+
+Filequery对象被析构
+
+
+
+
+TestShape函数结果：
+矩形面积为：20
+圆形面积为：28.2743
+正方形面积为：25
